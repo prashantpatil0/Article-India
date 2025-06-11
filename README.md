@@ -1,4 +1,4 @@
-# 📰 Article – Your all-in-one news companion-clean, fast, and focused.
+# 📰 Article – News. Unfiltered. With a Twist
 
 > News. Unfiltered. With a Twist.
 
