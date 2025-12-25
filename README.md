@@ -7,11 +7,11 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/prashantpatil0/Article-India/blob/478269b3e1fec39648bca3053215e365281d0646/screenshots/Screenshot_2025-06-11-15-05-39-10_15d632613644f46f1c074f415ef3f1f8.jpg" width="150"/>
-  <img src="https://github.com/prashantpatil0/Article-India/blob/478269b3e1fec39648bca3053215e365281d0646/screenshots/Screenshot_2025-06-11-14-57-23-43_15d632613644f46f1c074f415ef3f1f8.jpg" width="150"/>
-  <img src="https://github.com/prashantpatil0/Article-India/blob/478269b3e1fec39648bca3053215e365281d0646/screenshots/Screenshot_2025-06-11-15-01-57-78_15d632613644f46f1c074f415ef3f1f8.jpg" width="150"/>
-  <img src="https://github.com/prashantpatil0/Article-India/blob/478269b3e1fec39648bca3053215e365281d0646/screenshots/Screenshot_2025-06-11-15-00-55-16_15d632613644f46f1c074f415ef3f1f8.jpg" width="150"/>
-  <img src="https://github.com/prashantpatil0/Article-India/blob/478269b3e1fec39648bca3053215e365281d0646/screenshots/Screenshot_2025-06-11-15-01-06-66_15d632613644f46f1c074f415ef3f1f8.jpg" width="150"/>
+  <img src="https://github.com/prashantpatil0/Article-India/blob/main/screenshots/1.avif" width="150"/>
+  <img src="https://github.com/prashantpatil0/Article-India/blob/main/screenshots/2.avif" width="150"/>
+  <img src="https://github.com/prashantpatil0/Article-India/blob/main/screenshots/3.avif" width="150"/>
+  <img src="https://github.com/prashantpatil0/Article-India/blob/main/screenshots/4.avif" width="150"/>
+  <img src="https://github.com/prashantpatil0/Article-India/blob/main/screenshots/5.avif" width="150"/>
 </p>
 
 ---
